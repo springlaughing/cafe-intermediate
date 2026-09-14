@@ -1,0 +1,9 @@
+# <type>(<scope>): <subject>
+#
+# type:    feat fix docs style chore
+# scope:   about contact home styles config   (optional)
+# subject: imperative, lowercase, no period, ~50 chars
+#
+# Blank line, then body: what changed and why.
+#
+# Full rules: CONTRIBUTING.md
